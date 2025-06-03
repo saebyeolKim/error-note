@@ -78,11 +78,7 @@
 - (선택) **Docker + Docker Compose** – 환경 이식성 확보
 
 
-<details>
-<summary>📌 ERD 설계 보기</summary>
+### 📌 ERD 설계 보기
 
-<br>
+![ERD](https://github.com/user-attachments/assets/cb6ffde6-878d-41fc-abff-761bf2bbfcc7)
 
-![ERD](https://your-image-url.com/erd-diagram.png)
-
-</details>
