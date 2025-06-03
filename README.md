@@ -76,3 +76,13 @@
 - **Thymeleaf** (간단한 뷰가 필요한 경우)
 - **REST API 기반 구조** (프론트 분리 가능)
 - (선택) **Docker + Docker Compose** – 환경 이식성 확보
+
+
+<details>
+<summary>📌 ERD 설계 보기</summary>
+
+<br>
+
+![ERD](https://your-image-url.com/erd-diagram.png)
+
+</details>
