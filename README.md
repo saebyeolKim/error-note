@@ -70,7 +70,6 @@
 
 - **Spring DevTools**
 - **Swagger / SpringDoc OpenAPI**
-- **Testcontainers** (선택)
 
 ### 🚀 기타
 
