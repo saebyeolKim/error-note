@@ -20,7 +20,7 @@ public class Users extends BaseEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "userId", nullable = false, updatable = false)
-    private Integer userId;
+    private Long userId;
 
     @Comment("이메일")
     @Column(length = 20, nullable = false, unique = true)

@@ -22,7 +22,7 @@ public class ErrorLogs extends BaseEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "errorLogId", nullable = false, updatable = false)
-    private Integer errorLogId;
+    private Long errorLogId;
 
     @Comment("회원")
     @ManyToOne(fetch = FetchType.LAZY)

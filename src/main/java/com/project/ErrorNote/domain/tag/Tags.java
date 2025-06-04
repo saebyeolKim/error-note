@@ -20,7 +20,7 @@ public class Tags extends BaseEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "tagId", nullable = false, updatable = false)
-    private Integer tagId;
+    private Long tagId;
 
     @Comment("태그명")
     @Column(length = 20, nullable = false)

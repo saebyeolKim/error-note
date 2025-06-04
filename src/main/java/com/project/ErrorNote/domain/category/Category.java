@@ -20,7 +20,7 @@ public class Category extends BaseEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "categoryId", nullable = false, updatable = false)
-    private Integer categoryId;
+    private Long categoryId;
 
     @Comment("카테고리명")
     @Column(length = 100, nullable = false)

@@ -14,3 +14,6 @@ spring:
       hibernate:
         ddl-auto: update
       show-sql: true
+
+jwt:
+  secret: error-note-secret-key-202506042050
